@@ -9,8 +9,14 @@ h1, h2, h3 {
 }
 
 .logo {
-
+    
+    display:block;
     width: 64px;
     height: 64px;
-    position: absolute;
+}
+
+.logo img {
+
+    width: 100%;
+    height: auto;
 }
