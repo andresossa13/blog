@@ -185,3 +185,59 @@ h2 {
   height: auto;
 
 }
+
+aside {
+    width: 36.8%;
+    height: 540px;
+    padding-left: 0px;
+    margin-left: 0px;
+    float: right;
+    font-style: normal;
+    background-color: rgb(255, 255, 255);
+  }
+
+.preview {
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-top: 10px;
+}
+
+h3 {
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:#E41919;
+    text-align: left;
+    padding-left: 40px;
+    padding-top: 20px;
+}
+
+.second {
+
+    background-color: #f2f2f2;
+    width: 63.2%;
+}
+
+.matchday {
+
+    color: #000000;
+}
+
+h4 {
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #000000;
+    padding-left: 40px;
+}
+
+ol {
+    
+    text-align: left;
+   
+    
+ }
+
+ .stream {
+
+    color: #000000;
+    display:block;
+ }
