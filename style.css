@@ -188,7 +188,7 @@ h2 {
 
 aside {
     width: 36.8%;
-    height: 540px;
+    height: 100%;
     padding-left: 0px;
     margin-left: 0px;
     float: right;
@@ -211,10 +211,13 @@ h3 {
     padding-top: 20px;
 }
 
-.second {
 
+
+.second_left {
+ 
     background-color: #f2f2f2;
     width: 63.2%;
+
 }
 
 .matchday {
@@ -241,3 +244,18 @@ ol {
     color: #000000;
     display:block;
  }
+
+ .link {
+
+    color: #1f00e9;
+ }
+
+ .second_right {
+
+    text-align: center;
+ }
+
+ 
+
+
+ 
